@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AlexCode825
-- 👀 I’m interested in code and cryptos!
-- 🌱 I’m currently learning blockchain and finance.
+- 👋 Hi, I’m @Alex.
+- I'm a CS student.
 
 <!---
 AlexCode825/AlexCode825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
